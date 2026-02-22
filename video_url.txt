@@ -1,0 +1,5 @@
+Player URL:
+https://adiqwerty112.github.io/player/?list=https://raw.githubusercontent.com/adiqwerty112/9a3e22023ba6e4db/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/adiqwerty112/9a3e22023ba6e4db/refs/heads/master/github_master.m3u8
